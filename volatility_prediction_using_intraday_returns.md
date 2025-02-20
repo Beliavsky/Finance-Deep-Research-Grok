@@ -1,3 +1,5 @@
+<b>Q</b>: Survey the research on predicting the volatility of asset returns using intraday data at frequencies such as 1, 5, or 15 minutes.
+
 # Survey of Research on Predicting Volatility of Asset Returns Using Intraday Data
 
 ## Key Points
